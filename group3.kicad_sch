@@ -1,0 +1,1798 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "63b2c1f4-72e5-493f-b135-b11251f196d0")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 135.89 128.27) (xy 135.89 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bc36275-408c-478e-a7f5-7b69092acdca")
+	)
+	(wire
+		(pts
+			(xy 127 135.89) (xy 134.62 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a8f68e7-57f8-4a4f-9de8-dd7d7627ec55")
+	)
+	(wire
+		(pts
+			(xy 130.81 52.07) (xy 133.35 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c0954a9-cb15-4016-aa7f-34f8fd52341e")
+	)
+	(wire
+		(pts
+			(xy 138.43 153.67) (xy 134.62 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d979f03-73fa-48ef-873b-79a5af459254")
+	)
+	(wire
+		(pts
+			(xy 128.27 118.11) (xy 128.27 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fd47576-5ce7-48da-93cd-a4834c37dbe2")
+	)
+	(wire
+		(pts
+			(xy 134.62 125.73) (xy 138.43 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "219dc6fb-861a-4121-b103-486a709ac3ea")
+	)
+	(wire
+		(pts
+			(xy 138.43 123.19) (xy 133.35 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a51963a-72d9-432d-b5ae-ecda41c6e635")
+	)
+	(wire
+		(pts
+			(xy 138.43 128.27) (xy 135.89 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33e8ff83-bd1f-4d68-ba59-eb4e13c93397")
+	)
+	(wire
+		(pts
+			(xy 132.08 104.14) (xy 127 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f482e27-1040-4e9a-8c2b-22d8580bd04f")
+	)
+	(wire
+		(pts
+			(xy 133.35 123.19) (xy 133.35 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40109435-8437-46cc-bd09-647e3d29738b")
+	)
+	(wire
+		(pts
+			(xy 132.08 88.9) (xy 132.08 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44581205-53b5-4fc2-937e-371d8e17cb26")
+	)
+	(wire
+		(pts
+			(xy 130.81 59.69) (xy 130.81 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "455eaa50-5264-4893-be0e-46ff12f67ec2")
+	)
+	(wire
+		(pts
+			(xy 127 148.59) (xy 138.43 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45d80fbd-6ea2-4476-b94e-581258181c73")
+	)
+	(wire
+		(pts
+			(xy 133.35 49.53) (xy 129.54 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "539fd547-8db8-4900-acf7-3a93206efc63")
+	)
+	(wire
+		(pts
+			(xy 134.62 161.29) (xy 127 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59df00ed-644c-4fcc-aeaf-5e83a2d531de")
+	)
+	(wire
+		(pts
+			(xy 132.08 154.94) (xy 132.08 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62eafbf5-2885-49fc-aca5-cb049d053ad9")
+	)
+	(wire
+		(pts
+			(xy 127 59.69) (xy 130.81 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65b75b5e-d6f2-4116-895c-fc0ba6097b77")
+	)
+	(wire
+		(pts
+			(xy 127 66.04) (xy 132.08 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "693cdf7d-6376-425c-bf29-c93dfeede656")
+	)
+	(wire
+		(pts
+			(xy 129.54 53.34) (xy 127 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "696fc151-1083-46ec-b09d-48b71a945e36")
+	)
+	(wire
+		(pts
+			(xy 127 123.19) (xy 132.08 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "711790cc-2f77-4141-8a49-c130ef33ef44")
+	)
+	(wire
+		(pts
+			(xy 132.08 123.19) (xy 132.08 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7659d502-40c6-4fa3-895c-ff6fa1c8d8d7")
+	)
+	(wire
+		(pts
+			(xy 138.43 86.36) (xy 130.81 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "798b7b18-bc6b-431e-9de0-945e51572f20")
+	)
+	(wire
+		(pts
+			(xy 138.43 118.11) (xy 128.27 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c9df821-98e1-4753-9810-861cd71a07c5")
+	)
+	(wire
+		(pts
+			(xy 135.89 142.24) (xy 127 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e476c99-8a68-4e31-8731-f747a24b9f71")
+	)
+	(wire
+		(pts
+			(xy 133.35 129.54) (xy 127 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e77a7e9-36dd-463d-b68e-58d6300950ef")
+	)
+	(wire
+		(pts
+			(xy 134.62 135.89) (xy 134.62 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8501be86-2fa7-48e8-b279-0f440524d5e7")
+	)
+	(wire
+		(pts
+			(xy 128.27 85.09) (xy 127 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d654d6b-77bf-4bb2-a634-d1bbfe3f5722")
+	)
+	(wire
+		(pts
+			(xy 138.43 88.9) (xy 132.08 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "929657d3-84c5-46cf-a847-6220055b02c1")
+	)
+	(wire
+		(pts
+			(xy 133.35 91.44) (xy 133.35 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93761103-083f-42fa-a27a-879f9bea65b2")
+	)
+	(wire
+		(pts
+			(xy 127 72.39) (xy 133.35 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6f2fe43-2c58-4e22-a68a-2957ab83cee8")
+	)
+	(wire
+		(pts
+			(xy 127 78.74) (xy 138.43 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa9126b3-1df2-453b-8a0e-f1670a4fc2c0")
+	)
+	(wire
+		(pts
+			(xy 130.81 86.36) (xy 130.81 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b315bf0e-bac6-41d3-a6a0-9fc4eae489f1")
+	)
+	(wire
+		(pts
+			(xy 127 91.44) (xy 129.54 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9096de8-5ba7-498f-a32b-d50d9e475d98")
+	)
+	(wire
+		(pts
+			(xy 138.43 81.28) (xy 128.27 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb661dae-9f9d-4da4-8115-311f0b3cb92b")
+	)
+	(wire
+		(pts
+			(xy 134.62 153.67) (xy 134.62 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb7776a3-5156-4a16-a455-84fe60a1fe6b")
+	)
+	(wire
+		(pts
+			(xy 132.08 54.61) (xy 132.08 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5dadf1f-39e2-4300-a7f4-5851d38ddf7a")
+	)
+	(wire
+		(pts
+			(xy 132.08 120.65) (xy 138.43 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c888a249-001e-4a22-b4b7-20c9bfc680ae")
+	)
+	(wire
+		(pts
+			(xy 133.35 54.61) (xy 132.08 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c915ca88-ae70-49ea-80f1-32a15569fa3a")
+	)
+	(wire
+		(pts
+			(xy 132.08 151.13) (xy 138.43 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9209663-f639-4f29-91a0-fba13509229e")
+	)
+	(wire
+		(pts
+			(xy 128.27 81.28) (xy 128.27 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd3f4ab8-8399-4cac-91e1-b6cffd2e9d1b")
+	)
+	(wire
+		(pts
+			(xy 129.54 91.44) (xy 129.54 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0b239c0-11c4-4811-a337-fdd146e03f86")
+	)
+	(wire
+		(pts
+			(xy 127 46.99) (xy 133.35 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d100bf4a-df15-4956-a86f-2ba747257f86")
+	)
+	(wire
+		(pts
+			(xy 127 154.94) (xy 132.08 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "daf8b019-e08c-4411-9398-02fead3f4a79")
+	)
+	(wire
+		(pts
+			(xy 129.54 83.82) (xy 138.43 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dda72510-fe5d-436d-a618-7ef5f2d2efee")
+	)
+	(wire
+		(pts
+			(xy 133.35 110.49) (xy 127 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3fc170c-cc80-4e74-97e0-e1d81c8d0010")
+	)
+	(wire
+		(pts
+			(xy 127 167.64) (xy 138.43 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4dca73a-1369-4366-b5f1-c7e20724d820")
+	)
+	(wire
+		(pts
+			(xy 130.81 97.79) (xy 127 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e64a0f66-efe9-4155-9088-e44fa6089f5e")
+	)
+	(wire
+		(pts
+			(xy 138.43 91.44) (xy 133.35 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea3c39b3-65b7-41eb-8ec6-80a2d60dc194")
+	)
+	(wire
+		(pts
+			(xy 133.35 72.39) (xy 133.35 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee3a84de-c4c0-48a2-83b8-ffad0b70e0ca")
+	)
+	(wire
+		(pts
+			(xy 128.27 116.84) (xy 127 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef7c6677-2db8-4c46-be5f-315b8c87560b")
+	)
+	(wire
+		(pts
+			(xy 129.54 49.53) (xy 129.54 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f196dd3c-56a9-407e-adfe-57ab2f03ba31")
+	)
+	(hierarchical_label "L25"
+		(shape input)
+		(at 133.35 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "01851187-8129-47bb-a80c-eb3b6a60b444")
+	)
+	(hierarchical_label "L28"
+		(shape input)
+		(at 138.43 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0fe6fb51-7633-4eab-aec3-6fbfe68a9b99")
+	)
+	(hierarchical_label "L40"
+		(shape input)
+		(at 138.43 167.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1692ec1a-4e74-46d8-8dc1-c29a5c33fd95")
+	)
+	(hierarchical_label "L32"
+		(shape input)
+		(at 138.43 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "323a83c7-7b91-4c57-a135-052ac26e142a")
+	)
+	(hierarchical_label "L34"
+		(shape input)
+		(at 138.43 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3c14840f-00e1-4d04-9b9d-2d93ea61ea78")
+	)
+	(hierarchical_label "L21"
+		(shape input)
+		(at 133.35 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4521e06d-71f8-44a7-9893-010796cdc43a")
+	)
+	(hierarchical_label "L31"
+		(shape input)
+		(at 138.43 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4bf1821c-e97c-4802-a635-8c89e1ac4214")
+	)
+	(hierarchical_label "L36"
+		(shape input)
+		(at 138.43 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "61762ca7-82cb-46dd-80ec-159d78cfdd0f")
+	)
+	(hierarchical_label "L29"
+		(shape input)
+		(at 138.43 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "67cd5213-4bb0-4563-8a32-0bacc990e5c0")
+	)
+	(hierarchical_label "L27"
+		(shape input)
+		(at 138.43 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "764984ea-ece4-410c-9d15-69aaa39b2655")
+	)
+	(hierarchical_label "L24"
+		(shape input)
+		(at 133.35 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9cef598b-aa6f-4efa-aed5-ecc849f24506")
+	)
+	(hierarchical_label "L35"
+		(shape input)
+		(at 138.43 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a397313c-f059-469a-ba4b-1696b5f75270")
+	)
+	(hierarchical_label "L38"
+		(shape input)
+		(at 138.43 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b86c93a3-4589-4749-93c4-6439d648e595")
+	)
+	(hierarchical_label "L33"
+		(shape input)
+		(at 138.43 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ba9f8c12-c7d3-4a74-a9e1-5c7beddf28fe")
+	)
+	(hierarchical_label "L37"
+		(shape input)
+		(at 138.43 148.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cf7957b3-b20e-46aa-b931-1284217efd1e")
+	)
+	(hierarchical_label "L26"
+		(shape input)
+		(at 138.43 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d33b1898-3abc-4224-986c-5aec338960d4")
+	)
+	(hierarchical_label "L23"
+		(shape input)
+		(at 133.35 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d40794c7-78af-41c7-b836-cf9c0e4fe704")
+	)
+	(hierarchical_label "L30"
+		(shape input)
+		(at 138.43 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d54d2c3b-c4cc-482d-85e9-d6a47c4e2937")
+	)
+	(hierarchical_label "L22"
+		(shape input)
+		(at 133.35 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d59a0ac3-43e2-4486-bb0f-747a2698ecfc")
+	)
+	(hierarchical_label "L39"
+		(shape input)
+		(at 138.43 153.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f983bf24-cbfd-4858-90df-20b8b97d31cf")
+	)
+	(sheet
+		(at 113.03 127)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "077d6378-a63b-4708-ac63-06ea996e4bd3")
+		(property "Sheetname" "Laser Module33"
+			(at 113.03 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 129.54 0)
+			(uuid "055b2637-0835-43ca-b9f4-0108674e731c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "35")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 50.8)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "08f02930-cf31-401d-b23f-78d60bbe9828")
+		(property "Sheetname" "Laser Module21"
+			(at 113.03 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 53.34 0)
+			(uuid "cfc3d537-7219-4840-9d93-2fa6b374f0c8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "23")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 146.05)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "09cb50c4-d982-4bd5-b215-10c7770c3db1")
+		(property "Sheetname" "Laser Module36"
+			(at 113.03 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 148.59 0)
+			(uuid "c0a64d50-d7f9-429f-b5aa-5ee6388ae8a3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "38")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 69.85)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "22bf1d44-1a9f-4e2b-b2a9-601b164bc9c5")
+		(property "Sheetname" "Laser Module24"
+			(at 113.03 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 72.39 0)
+			(uuid "46b12acc-0fb0-4b11-a915-933e0506abf0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "26")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 152.4)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "28edbb42-c704-434d-8f70-c90065ad9112")
+		(property "Sheetname" "Laser Module37"
+			(at 113.03 151.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 154.94 0)
+			(uuid "0befd271-e4ed-4309-9b28-d676357cee3e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "39")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 57.15)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "41b54672-83b6-489d-b371-cb311919cbb5")
+		(property "Sheetname" "Laser Module22"
+			(at 113.03 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 59.69 0)
+			(uuid "1ba9e00a-cef9-4160-a0e7-5f780b676093")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "24")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 101.6)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "58b58864-ab20-4485-ac06-3465eef503bd")
+		(property "Sheetname" "Laser Module29"
+			(at 113.03 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 104.14 0)
+			(uuid "c0b3b482-e51a-4b4d-b394-bca09441beac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "31")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 107.95)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "648275a0-fbd8-45bc-abea-8cd6ad9907bf")
+		(property "Sheetname" "Laser Module30"
+			(at 113.03 107.2384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 110.49 0)
+			(uuid "6fc334a9-5027-4057-8c0c-2b0f8b8f8a6f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "32")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 139.7)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6ce48db2-0583-45dc-8db3-a13a232471dc")
+		(property "Sheetname" "Laser Module35"
+			(at 113.03 138.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 144.0946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 142.24 0)
+			(uuid "26d0b8b4-5e01-4b8f-bd08-f4c31972beb5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "37")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 95.25)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6f9590f7-f589-4716-9fa2-080c3b7c1a7f")
+		(property "Sheetname" "Laser Module28"
+			(at 113.03 94.5384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 97.79 0)
+			(uuid "fb342841-7a39-4f19-8d15-47e5b5ba0cde")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "30")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 120.65)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "725df1d7-aa09-4838-9d28-2a4453e2fa75")
+		(property "Sheetname" "Laser Module32"
+			(at 113.03 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 123.19 0)
+			(uuid "6692a37b-28aa-4c3f-a16d-c5e4d575e816")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "34")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 82.55)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "893a057b-421e-48dc-bf8c-2771218f9124")
+		(property "Sheetname" "Laser Module26"
+			(at 113.03 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 85.09 0)
+			(uuid "9cebe5c2-2738-4025-b2db-8e2d4972ba94")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "28")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 44.45)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "92258576-4a7e-4173-8f11-c63f426cd18a")
+		(property "Sheetname" "Laser Module20"
+			(at 113.03 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 46.99 0)
+			(uuid "0e49695e-69c4-4b93-88a1-01416b41ce7d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "22")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 158.75)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9c28feac-7699-483b-bb7a-37740a6d2c08")
+		(property "Sheetname" "Laser Module38"
+			(at 113.03 158.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 161.29 0)
+			(uuid "ea91e08a-3b11-44d7-ba6b-58ac49ab03b9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "40")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 165.1)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a6d1bbe5-2fe7-49ed-bfb1-c4c47efefa92")
+		(property "Sheetname" "Laser Module39"
+			(at 113.03 164.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 169.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 167.64 0)
+			(uuid "1f9f372d-d355-4215-a9a5-5282cdcc6afd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "41")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 133.35)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b0795701-d223-4ae9-8d8f-c5e6edcd3263")
+		(property "Sheetname" "Laser Module34"
+			(at 113.03 132.6384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 135.89 0)
+			(uuid "fb6f0eb3-6370-475c-bc46-4d5a762b32c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "36")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 114.3)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b49740b2-c255-4994-b819-31c252df5cb2")
+		(property "Sheetname" "Laser Module31"
+			(at 113.03 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 116.84 0)
+			(uuid "1ddcf4cd-0850-4b51-b3bb-b2145825a8dd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "33")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 63.5)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dbb9f885-d0fe-4390-b43f-aa370ebf5de6")
+		(property "Sheetname" "Laser Module23"
+			(at 113.03 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 66.04 0)
+			(uuid "2a2f3796-b83f-4d21-80cc-b858b3930bd5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "25")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 88.9)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e455e1dd-217b-4813-8ab2-8f2d8263be29")
+		(property "Sheetname" "Laser Module27"
+			(at 113.03 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 91.44 0)
+			(uuid "2ad8e93c-2b73-4409-8252-8e56fc3232a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "29")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 76.2)
+		(size 13.97 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ee4c34cd-1bd8-43e8-8889-52be6508f079")
+		(property "Sheetname" "Laser Module25"
+			(at 113.03 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 113.03 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Laser" input
+			(at 127 78.74 0)
+			(uuid "22d55c9c-2002-46fc-9521-88c1ea051c97")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "laserboard_2.0"
+				(path "/ea355f14-8be2-44af-b81d-a2bbe9832d12/d1bcb30e-e470-4107-9f02-f09ed096de38"
+					(page "27")
+				)
+			)
+		)
+	)
+)

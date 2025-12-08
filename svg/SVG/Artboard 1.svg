@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 915.1 360.77">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 7px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        font-family: MingLiU, MingLiU;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-3, .cls-5 {
+        font-size: 90px;
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4, .cls-6, .cls-7 {
+        font-size: 6px;
+      }
+
+      .cls-4, .cls-7 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-5 {
+        letter-spacing: -.13em;
+      }
+
+      .cls-6 {
+        font-family: ArialRoundedMTBold, 'Arial Rounded MT Bold';
+      }
+
+      .cls-7 {
+        letter-spacing: -.17em;
+      }
+    </style>
+  </defs>
+  <g id="FS">
+    <line class="cls-9" x1="102.61" y1="105.15" x2="102.61" y2="239.95"/>
+    <text class="cls-6" transform="translate(84.87 111.02)"><tspan x="0" y="0">Lin</tspan><tspan class="cls-8" x="8.87" y="0">k</tspan><tspan x="12.16" y="0">s</tspan></text>
+    <g class="cls-2">
+      <text class="cls-4" transform="translate(205.72 163.67)"><tspan x="0" y="0">Talking to</tspan></text>
+      <text class="cls-7" transform="translate(205.72 169.67)"><tspan x="0" y="0">--- - .... . .-. ...</tspan></text>
+      <text class="cls-4" transform="translate(205.72 182.67)"><tspan x="0" y="0">Lee Hiuyan</tspan></text>
+      <text class="cls-6" transform="translate(205.72 189.87)"><tspan x="0" y="0"> </tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-1" transform="translate(707.94 170.91)"><tspan x="0" y="0">對話</tspan></text>
+      <text class="cls-1" transform="translate(707.94 184.91)"><tspan x="0" y="0">李曉欣</tspan></text>
+    </g>
+    <g class="cls-2">
+      <text class="cls-5" transform="translate(118.63 159.49)"><tspan x="0" y="0">.---- ....- .---- --... </tspan></text>
+      <text class="cls-3" transform="translate(122.27 198.48)"><tspan x="0" y="0">-.... .---- .---- ....-</tspan></text>
+    </g>
+  </g>
+</svg>
